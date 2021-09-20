@@ -21,6 +21,8 @@
     #ifndef DD_LEGACY_MACROS
         #define DD_LEGACY_MACROS 1
     #endif
+
+    #define DD_LEGACY_MACROS 1
     // DD_LEGACY_MACROS is checked in the file itself
     #import <CocoaLumberjack/DDLegacyMacros.h>
 #endif
